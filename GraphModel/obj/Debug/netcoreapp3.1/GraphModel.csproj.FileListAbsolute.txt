@@ -1,8 +1,0 @@
-C:\Users\Jason\Documents\Source\Train\GraphModel\bin\Debug\netcoreapp3.1\GraphModel.deps.json
-C:\Users\Jason\Documents\Source\Train\GraphModel\bin\Debug\netcoreapp3.1\GraphModel.dll
-C:\Users\Jason\Documents\Source\Train\GraphModel\bin\Debug\netcoreapp3.1\GraphModel.pdb
-C:\Users\Jason\Documents\Source\Train\GraphModel\obj\Debug\netcoreapp3.1\GraphModel.csprojAssemblyReference.cache
-C:\Users\Jason\Documents\Source\Train\GraphModel\obj\Debug\netcoreapp3.1\GraphModel.AssemblyInfoInputs.cache
-C:\Users\Jason\Documents\Source\Train\GraphModel\obj\Debug\netcoreapp3.1\GraphModel.AssemblyInfo.cs
-C:\Users\Jason\Documents\Source\Train\GraphModel\obj\Debug\netcoreapp3.1\GraphModel.dll
-C:\Users\Jason\Documents\Source\Train\GraphModel\obj\Debug\netcoreapp3.1\GraphModel.pdb

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jason\\Documents\\Source\\Train\\GraphModel\\Graph.csproj",
+      "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\Train\\GraphModel\\Graph.csproj",
       "projectName": "Graph",
-      "projectPath": "C:\\Users\\Jason\\Documents\\Source\\Train\\GraphModel\\Graph.csproj",
+      "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Train\\GraphModel\\Graph.csproj",
       "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jason\\Documents\\Source\\Train\\GraphModel\\obj\\",
+      "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\Train\\GraphModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

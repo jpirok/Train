@@ -5672,11 +5672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jason\\Documents\\Source\\Train\\NodeTests\\GraphTests.csproj",
+      "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\Train\\NodeTests\\GraphTests.csproj",
       "projectName": "GraphTests",
-      "projectPath": "C:\\Users\\Jason\\Documents\\Source\\Train\\NodeTests\\GraphTests.csproj",
+      "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Train\\NodeTests\\GraphTests.csproj",
       "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jason\\Documents\\Source\\Train\\NodeTests\\obj\\",
+      "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\Train\\NodeTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5695,8 +5695,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Jason\\Documents\\Source\\Train\\GraphModel\\Graph.csproj": {
-              "projectPath": "C:\\Users\\Jason\\Documents\\Source\\Train\\GraphModel\\Graph.csproj"
+            "C:\\Users\\Jason\\Documents\\GitHub\\Train\\GraphModel\\Graph.csproj": {
+              "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Train\\GraphModel\\Graph.csproj"
             }
           }
         }

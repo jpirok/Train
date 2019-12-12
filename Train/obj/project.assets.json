@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jason\\Documents\\Source\\Train\\Train\\Train.csproj",
+      "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\Train\\Train\\Train.csproj",
       "projectName": "Train",
-      "projectPath": "C:\\Users\\Jason\\Documents\\Source\\Train\\Train\\Train.csproj",
+      "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Train\\Train\\Train.csproj",
       "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jason\\Documents\\Source\\Train\\Train\\obj\\",
+      "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\Train\\Train\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,8 +56,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Jason\\Documents\\Source\\Train\\GraphModel\\Graph.csproj": {
-              "projectPath": "C:\\Users\\Jason\\Documents\\Source\\Train\\GraphModel\\Graph.csproj"
+            "C:\\Users\\Jason\\Documents\\GitHub\\Train\\GraphModel\\Graph.csproj": {
+              "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\Train\\GraphModel\\Graph.csproj"
             }
           }
         }
