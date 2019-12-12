@@ -1,0 +1,8 @@
+C:\Users\Jason\Documents\Source\Train\GraphModel\obj\Debug\netcoreapp3.1\Graph.AssemblyInfoInputs.cache
+C:\Users\Jason\Documents\Source\Train\GraphModel\obj\Debug\netcoreapp3.1\Graph.AssemblyInfo.cs
+C:\Users\Jason\Documents\Source\Train\GraphModel\bin\Debug\netcoreapp3.1\Graph.deps.json
+C:\Users\Jason\Documents\Source\Train\GraphModel\bin\Debug\netcoreapp3.1\Graph.dll
+C:\Users\Jason\Documents\Source\Train\GraphModel\bin\Debug\netcoreapp3.1\Graph.pdb
+C:\Users\Jason\Documents\Source\Train\GraphModel\obj\Debug\netcoreapp3.1\Graph.dll
+C:\Users\Jason\Documents\Source\Train\GraphModel\obj\Debug\netcoreapp3.1\Graph.pdb
+C:\Users\Jason\Documents\Source\Train\GraphModel\obj\Debug\netcoreapp3.1\Graph.csprojAssemblyReference.cache

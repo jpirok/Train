@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Train/1.0.0": {
+        "dependencies": {
+          "Graph": "1.0.0"
+        },
+        "runtime": {
+          "Train.dll": {}
+        }
+      },
+      "Graph/1.0.0": {
+        "runtime": {
+          "Graph.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Train/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Graph/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
